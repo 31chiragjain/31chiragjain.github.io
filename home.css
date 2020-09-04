@@ -1,0 +1,67 @@
+body{
+	background-image: url(barca.JPG);
+}
+
+body nav{
+	border: 15px solid #06425C;
+	border-radius: 40px;
+	background-color:#05567D;
+	overflow: auto;
+}
+
+body section div{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+body section h2{
+	display: inline-block;
+	width: 100%;
+}
+
+body section h2 a{
+	display:inline-block;
+	height:60px;
+	color: #fff;
+	background-color:#8C0E0E;
+	text-decoration: none;
+	padding:3% 5%;
+	border-radius: 900px;
+	font-size: 21px;
+	margin-right: 28px;
+}
+details{
+	color: #fff;
+	display: inline-block;
+	padding: 30px 400px 10px 20px;
+	font-weight: bolder;
+
+}
+
+img{
+	padding: 10px 0px 15px 20px;
+}
+
+section{
+	display: inline-block;
+	overflow: auto;
+	width: 100%;
+}
+
+section h1{
+	font-family: Baskerville;
+	color: #000000;
+	text-align: center;
+	font-size: 400%;
+	padding-left: 50px;
+}
+
+p{
+	color: #fff;
+	font-weight: normal;
+}
+
+body section h2 a:hover{
+	background-color: #0B73A6;
+}

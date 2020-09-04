@@ -1,0 +1,37 @@
+body{
+	color: #8C1A1A;
+	padding:1% 30px;
+	font-size: 30px;
+	background-color: #fff;
+}
+
+body div{
+	background-color: #52c8ce;
+	display: inline-block;
+	border-radius: 60px;
+	padding: 10px 0px 30px 40px;
+	color: #000;
+}
+
+section{
+	background-color: #52c8ce;
+	display: inline-block;
+	border-radius: 60px;
+	padding-left: 40px;
+	color: #000;
+}
+
+h2{
+	font-size: 60px;
+}
+
+h3{
+	font-size: 50px;
+}
+
+p{
+	font-size: 30px;
+}
+a{
+	padding: 0px 30px 0px 110px;
+}

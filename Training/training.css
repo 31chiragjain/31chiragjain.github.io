@@ -1,0 +1,43 @@
+h2{
+	font-size: 50px;
+}
+h3{
+	font-size: 40px;
+}
+pre{
+	font-size: 20px;
+	display: contents;
+}
+div :hover{
+	border-radius: 0px;
+}
+body{
+	color: #8C1A1A;
+	padding:140px 0px 0px 2%;
+	font-size: 30px;
+	background-color: #000;
+}
+body div section{
+	background-color: #ffffb4;
+	display: inline-block;
+	border-radius: 60px;
+	height: 400px;
+	padding-left: 40px;
+	width: 1200px;
+
+}
+.navbar{
+	overflow: hidden;
+  background-color: #000;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; 
+
+}
+.navbar h2{
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
